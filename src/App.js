@@ -62,9 +62,9 @@ const MovieListContainer = styled.div`
   justify-content: space-evenly;;
 `;
 const Placeholder = styled.img`
-  width: 120px;
-  height: 120px;
-  margin: 150px;
+  width: 130px;
+  height: 130px;
+  margin: 140px;
   opacity: 50%;
 `;
 
